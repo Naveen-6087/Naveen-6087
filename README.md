@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently diving deep into Web3 development and mastering Full-Stack dApp architecture using Solidity.  <br>🤝 I'm looking to collaborate on blockchain projects, open-source dApps, and anything at the intersection of decentralization and innovation.  <br>🛠️ I can help with writing smart contracts, building full-stack Web3 applications, and debugging complex frontend/backend interactions.  <br>💬 Ask me about smart contracts, React/Next.js, or how to bring Web2 ideas into the Web3 world.  <br>⚡ Fun fact: ⚡ Fun fact: I function best after midnight, with headphones on and the world silent.<br>
+🚀 I'm currently diving deep into Web3 development and mastering Full-Stack dApp architecture using Solidity.  <br>🤝 I'm looking to collaborate on blockchain projects, open-source dApps, and anything at the intersection of decentralization and innovation.  <br>🛠️ I can help with writing smart contracts, building full-stack Web3 applications, and debugging complex frontend/backend interactions.  <br>💬 Ask me about smart contracts, React/Next.js, or how to bring Web2 ideas into the Web3 world.  <br>⚡ Fun fact: I function best after midnight, with headphones on and the world silent.<br>
 
 
 ## 🌐 Socials:
